@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 0x6d616e6f</title>
-    <link>http://me.scabb-island.com.ar/categories/</link>
+    <link>https://me.scabb-island.com.ar/categories/</link>
     <description>Recent content in Categories on 0x6d616e6f</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     
-	<atom:link href="http://me.scabb-island.com.ar/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://me.scabb-island.com.ar/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
